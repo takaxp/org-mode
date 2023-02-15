@@ -4,3 +4,6 @@
 [submodule "org-contrib"]
 	path = org-contrib
 	url = https://git.sr.ht/~bzg/org-contrib
+[submodule "patch"]
+	path = patch
+	url = https://github.com/takaxp/org-mode-patch.git
