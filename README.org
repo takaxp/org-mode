@@ -1,4 +1,4 @@
-This is a distribution of Org Mode, a major mode for keeping notes,
+This is a =private mirror of the= distribution of Org Mode =with org-contrib and some modifications=, a major mode for keeping notes,
 authoring documents, computational notebooks, literate programming,
 maintaining to-do lists, planning projects, and more — in a fast and
 effective plain text system.
