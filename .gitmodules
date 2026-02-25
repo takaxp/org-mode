@@ -1,0 +1,3 @@
+[submodule "contrib"]
+	path = contrib
+	url = https://git.sr.ht/~bzg/org-contrib
